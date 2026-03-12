@@ -1,5 +1,5 @@
-This repository is used to hold all python geoprocessing code to run an analysis that calculates global inland desert wetlands calculations.
-This repository does not store large geospatial datasets. Instead, it expects users to download required data separately and place them into a standardized local folder structure. It also expects user to use ArcGIS Notebooks environment to run code. Data citations for datasets can be found in the supporting information section of the manuscript.
+This repository is used to hold all python geoprocessing code to run global inland desert wetlands calculations.
+This repository does not store large geospatial datasets. Instead, it expects users to download required data separately and place them into a standardized local folder structure. It also expects the user to use ArcGIS Notebooks environment to run code. Data citations for datasets can be found in the supporting information section of the manuscript.
 ```
 Expected Folder Stucture:
 repo_root/
