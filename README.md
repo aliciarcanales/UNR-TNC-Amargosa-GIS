@@ -13,5 +13,12 @@ repo_root/
 ```
 
 repo_root/ Project repository root. Users must use this data path as the `path_folder` attribute in first code block in order to run script.
+
 data/ All input data required to run the scripts.
+
 outputs/ All generated outputs produced by the scripts
+
+Files:
+Global-AI_ET0_v3_annual - Global Aridity Index and Potential Evapotranspiration Database - Version 3
+GLWD_v2_0_combined_classes - Global Lakes and Wetlands Database (GLWD Version 2) 
+inland_desert_wetland_calc_script.ipynb - Jupyter notebook that holds all python geoprocessing code to produce global inland desert wetlands calculations. 
